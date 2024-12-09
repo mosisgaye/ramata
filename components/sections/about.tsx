@@ -49,7 +49,7 @@ export function About() {
           
           <div className="relative">
             <motion.img
-              src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&q=80"
+              src="/images/rama.jpeg"
               alt="Ramata GAYE"
               className="rounded-lg shadow-xl w-full"
               initial={{ opacity: 0, scale: 0.9 }}
