@@ -1,0 +1,27 @@
+{
+  "menu": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "experience": "Experience",
+    "education": "Education",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "sections": {
+    "tools": "Tools & Technologies"
+  },
+  "tools": {
+    "quickbooks": "Complete accounting and financial management solution",
+    "xero": "Cloud-based accounting software for small businesses",
+    "sage": "Enterprise resource planning and management software",
+    "excel": "Advanced data analysis and financial modeling",
+    "tableau": "Data visualization and business intelligence platform",
+    "powerbi": "Interactive data visualization and reporting tool"
+  }
+}

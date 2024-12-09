@@ -1,0 +1,27 @@
+{
+  "menu": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "skills": "Compétences",
+    "experience": "Expérience",
+    "education": "Formation",
+    "projects": "Projets",
+    "contact": "Contact"
+  },
+  "theme": {
+    "light": "Clair",
+    "dark": "Sombre",
+    "system": "Système"
+  },
+  "sections": {
+    "tools": "Outils & Technologies"
+  },
+  "tools": {
+    "quickbooks": "Solution complète de gestion comptable et financière",
+    "xero": "Logiciel de comptabilité cloud pour PME",
+    "sage": "Logiciel de planification et gestion des ressources",
+    "excel": "Analyse de données et modélisation financière avancée",
+    "tableau": "Plateforme de visualisation de données et business intelligence",
+    "powerbi": "Outil interactif de visualisation et reporting"
+  }
+}
