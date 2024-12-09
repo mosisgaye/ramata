@@ -6,6 +6,5 @@ export const menuItems = [
   { id: "experience", label: "Expérience" },
   { id: "education", label: "Formation" },
   { id: "projects", label: "Projets" },
-  { id: "pricing", label: "Tarifs" },
   { id: "contact", label: "Contact" },
 ];
